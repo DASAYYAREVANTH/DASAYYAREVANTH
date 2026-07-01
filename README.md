@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dasayya Revanth 👋  <br><br>Computer Science student passionate about building scalable applications and data-driven solutions.<br><br>💻 Tech Stack:  <br>Spring Boot | REST APIs | Python | Java | C | SQL | MySQL  <br><br>📊 Data & Analytics:  <br>Data Analytics | Machine Learning | Tableau | Power BI  <br><br>⚙️ Tools & Frameworks:  <br>FastAPI | ServiceNow  <br><br>🚀 I enjoy developing real-world solutions in AI, backend systems, and business analytics.  <br><br>📫 Reach me at: revanthd9676@gmail.com  
+Hi, I'm Dasayya Revanth 👋  <br><br>Computer Science student passionate about building scalable applications and data-driven solutions.<br><br>💻 Tech Stack:  <br>Spring Boot | REST APIs | Python | Java | C | SQL | MySQL | Flask <br><br>📊 Data Science & AI:  <br>Data Analytics | Data Science | Artificial Intelligence | Machine Learning <br><br>⚙️ Tools & Frameworks:  <br>FastAPI | ServiceNow | Tabeleau | PowerBI <br><br>🚀 I enjoy developing real-world solutions in AI, backend systems, and business analytics.  <br><br>📫 Reach me at: revanthd9676@gmail.com  
 
 
 ## 🌐 Socials:
